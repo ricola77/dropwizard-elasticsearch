@@ -42,8 +42,8 @@
 
     <distributionManagement>
         <snapshotRepository>
-            <id>ossrh</id>
-            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+            <id>gini-snapshots</id>
+            <url>https://repo.i.gini.net/nexus/content/repositories/snapshots</url>
         </snapshotRepository>
         <repository>
             <id>ossrh</id>
