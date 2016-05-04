@@ -42,7 +42,7 @@
 
     <distributionManagement>
         <snapshotRepository>
-            <id>gini-snapshots</id>
+            <id>gini-repo</id>
             <url>https://repo.i.gini.net/nexus/content/repositories/snapshots</url>
         </snapshotRepository>
         <repository>
